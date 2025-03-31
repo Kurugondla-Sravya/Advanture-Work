@@ -29,8 +29,8 @@ Customer & Region Data – Sales territories
 Date/Time Data – Order dates, quarterly and yearly trends
 
 📊 Dashboard Preview
-![Advanture Work xslx](https://github.com/user-attachments/assets/8f91025f-4109-48d1-beb7-db208039d17e)
 
+![Advanture Work xslx](https://github.com/user-attachments/assets/8f91025f-4109-48d1-beb7-db208039d17e)
 
 
 📈 Dashboard Insights
